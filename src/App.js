@@ -35,7 +35,7 @@ const App = () => {
 				top: "-15%",
 			}}
 		>
-			SatyamShukla EC2 Test
+			Satyam Nitesh EC2 Test
 			<div
 				style={{
 					fontSize: "120%",
