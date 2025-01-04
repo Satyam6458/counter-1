@@ -35,7 +35,7 @@ const App = () => {
 				top: "-15%",
 			}}
 		>
-			Counter App
+			Counter App SatyamShukla
 			<div
 				style={{
 					fontSize: "120%",
