@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <body>
+            <script>
+                <p>Hello</p>
+            </script>
+        </body>
+    </head>
+</html>
