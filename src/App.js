@@ -35,7 +35,7 @@ const App = () => {
 				top: "-15%",
 			}}
 		>
-			Satyam Shukla Nitesh manadal  6 jan 1
+			Satyam and Nitesh 6 jan 1
 			<div
 				style={{
 					fontSize: "120%",
