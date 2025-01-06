@@ -35,7 +35,7 @@ const App = () => {
 				top: "-15%",
 			}}
 		>
-			Satyam Shukla Nitesh manadal EC2 push Test 6 jan 1
+			Satyam Shukla Nitesh manadal  6 jan 1
 			<div
 				style={{
 					fontSize: "120%",
